@@ -1,0 +1,16 @@
+C:\Users\ACER\source\repos\Clock\Clock\bin\Debug\net5.0\Clock.exe
+C:\Users\ACER\source\repos\Clock\Clock\bin\Debug\net5.0\Clock.deps.json
+C:\Users\ACER\source\repos\Clock\Clock\bin\Debug\net5.0\Clock.runtimeconfig.json
+C:\Users\ACER\source\repos\Clock\Clock\bin\Debug\net5.0\Clock.runtimeconfig.dev.json
+C:\Users\ACER\source\repos\Clock\Clock\bin\Debug\net5.0\Clock.dll
+C:\Users\ACER\source\repos\Clock\Clock\bin\Debug\net5.0\ref\Clock.dll
+C:\Users\ACER\source\repos\Clock\Clock\bin\Debug\net5.0\Clock.pdb
+C:\Users\ACER\source\repos\Clock\Clock\obj\Debug\net5.0\Clock.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\Clock\Clock\obj\Debug\net5.0\Clock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\Clock\Clock\obj\Debug\net5.0\Clock.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\Clock\Clock\obj\Debug\net5.0\Clock.AssemblyInfo.cs
+C:\Users\ACER\source\repos\Clock\Clock\obj\Debug\net5.0\Clock.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\Clock\Clock\obj\Debug\net5.0\Clock.dll
+C:\Users\ACER\source\repos\Clock\Clock\obj\Debug\net5.0\ref\Clock.dll
+C:\Users\ACER\source\repos\Clock\Clock\obj\Debug\net5.0\Clock.pdb
+C:\Users\ACER\source\repos\Clock\Clock\obj\Debug\net5.0\Clock.genruntimeconfig.cache
